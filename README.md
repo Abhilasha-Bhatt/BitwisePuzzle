@@ -78,6 +78,10 @@ You can modify the following:
 ---
 
 ## Example Gameplay
+
+![Bitwise Puzzle Example](Screenshot 2024-11-18 230429.png)
+
+
 ### Menu
 ```plaintext
 WELCOME TO BITWISE PUZZLE DASHBOARD
