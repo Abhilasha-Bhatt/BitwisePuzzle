@@ -106,3 +106,21 @@ SCORE = 1
 - Ensure the terminal supports ANSI codes for colors.
 - Input validation is implemented to prevent errors from invalid entries.
 - Customize the questions and theme colors as per your preferences.
+
+## Credits
+Created by [![ABHILASHA](https://img.shields.io/badge/ABHILASHA-Profile-blue?style=for-the-badge)](https://www.linkedin.com/in/abhilasha-bhatt3/)
+. This project is a simple implementation of Minesweeper for practice with C programming.
+
+[![Kunal Upadhyay GitHub](https://img.shields.io/badge/Kunal_Upadhyay-GitHub-red?logo=github&style=for-the-badge)](https://github.com/Kunal-Upadhyay)                           [![Prateek Kumar GitHub](https://img.shields.io/badge/Prateek_Kumar-GitHub-red?logo=github&style=for-the-badge)](https://github.com/geeekdude)
+
+## Contacts
+
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:abhilashabhatt77@gmail.com)
+
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/abhilasha-bhatt3/)
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Abhilasha-Bhatt)
+
+
+Feel free to modify or extend this game!
